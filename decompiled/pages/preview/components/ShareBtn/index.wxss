@@ -1,0 +1,2 @@
+.button-sp-area{-ms-flex-pack:center;bottom:40rpx;display:-webkit-flex;display:-ms-flexbox;display:flex;height:58rpx;-webkit-justify-content:center;justify-content:center;margin:0 auto;position:fixed;width:100%;z-index:100000}
+.share-btn{background-color:rgba(254,44,85,.8)!important;border:0rpx!important;border-radius:110rpx;color:#fff7e4!important;font-size:20rpx!important;font-weight:600!important;width:228rpx}
